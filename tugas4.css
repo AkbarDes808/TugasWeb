@@ -1,0 +1,73 @@
+
+.teksgambar{
+    background-image: url('https://rohanihasan808.files.wordpress.com/2020/10/qi-bin-w4hbafegiac-unsplash.jpg');
+    width: 1520px;
+    height: 3000;
+    
+}
+.teksgambar p{
+    padding: 150px 600px;
+    color: rgb(255, 255, 255);
+    font: bold 40px sans-serif;
+}
+.teksgambar g{
+    background-image: url(Gawr_Gura_Portrait.png);
+    padding: 100px;
+    border: 7px solid grey;
+    margin-left: 650px;
+}
+.profil{
+    color: rgb(0, 53, 114);
+    font: bold 30px sans-serif;
+    
+}
+.home{
+    color: rgb(0, 53, 114);
+    font: bold 30px sans-serif;
+}
+.pendidikan{
+    color: rgb(0, 53, 114);
+    font: bold 30px sans-serif;
+}
+.lainnya{
+    color: rgb(0, 53, 114);
+    font: bold 30px sans-serif;
+}
+.tabel{
+    padding-top: 150px;
+}
+.profil1{
+    color: rgb(0, 53, 114);
+    font-family: sans-serif;
+    
+}
+.home1{
+    color: rgb(0, 53, 114);
+    font-family: sans-serif;
+}
+.pendidikan1{
+    color: rgb(0, 53, 114);
+    font-family: sans-serif;
+}
+.lainnya1{
+    color: rgb(0, 53, 114);
+    font-family: sans-serif;
+}
+.info{
+    padding-top: 110px;
+    padding-left: 20px;
+    color: rgb(0, 53, 114);
+    font: bold 8px sans-serif;
+}
+.table2{
+    padding-top:100px;
+    padding-left: 440px;
+}
+.about{
+    color: rgb(0, 53, 114);
+    font: 20px sans-serif;
+    padding-top: 250px;
+    padding-right: 200px;
+    padding-left: 200px;
+    
+}
